@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+db.sqlite3
+/env
+*.env
+.vscode
+vuexy-admin-v9.9.0
+frontend\node_module
+virtualenv
